@@ -2,5 +2,6 @@
 
 to run project
 
-`yarn`
-`yarn android` or `yarn ios`
+1. `yarn`
+
+2. `yarn android` or `yarn ios`
